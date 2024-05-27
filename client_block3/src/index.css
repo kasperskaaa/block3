@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  background-color: #FFF5EE;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.mb-2 {
+  margin-bottom: 10px;
+}
